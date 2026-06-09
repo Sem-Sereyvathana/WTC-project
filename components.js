@@ -7,7 +7,7 @@ export function headComponent(title = "Home") {
                     <h2 id="h2">I<span>T</span><span>E</span></h2>  
                 </div>
                 <div class="d-flex gap-2 menu">
-                    <a class="btn text-white fw-bold" href="home.html">HOME</a>
+                    <a class="btn text-white fw-bold" href="index.html">HOME</a>
                     <a class="btn text-white fw-bold" href="product.html">PRODUCT</a>
                     <a class="btn text-white fw-bold" href="aboutus.html">ABOUT US</a>
                 </div>           
